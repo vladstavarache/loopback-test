@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Book": 2
+  },
+  "models": {
+    "Book": {
+      "1": "{\"title\":\"test\",\"author\":\"famous author\",\"price\":0,\"id\":1}"
+    }
+  }
+}
